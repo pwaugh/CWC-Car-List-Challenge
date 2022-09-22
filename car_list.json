@@ -1,5 +1,6 @@
 [
     {
+        "images":["tacoma"]
         "make":"Land Rover",
         "model": "Range Rover",
         "retailPrice":125000.0,
@@ -8,6 +9,7 @@
         "consList":["Bad direction"],
         "rating":3\
     },{
+        "images":["roadster"]
         "make":"Alpine",
         "model":"Roadster",
         "retailPrice":225000.0,
@@ -16,6 +18,7 @@
         "consList":["Sometime explode"],
         "rating":4
     },{
+        "images":["bmw_330i"]
         "make":"BMW",
         "model":"3300i",
         "retailPrice":55900.0,
@@ -25,6 +28,7 @@
         "rating":5
         
     },{
+        "images":["benz"]
         "make":"Mercedes Benz",
         "model":"GLE coupe",
         "retailPrice":85900.0,
